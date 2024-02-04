@@ -1,6 +1,6 @@
 package com.liroustore.paymentliroustore.types;
 
-public enum PhoneType {
+public enum TipoDeTelefone {
     MOBILE,
     BUSINESS,
     HOME
